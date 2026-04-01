@@ -30,3 +30,6 @@ A modern note-taking web application inspired by Notion, built using React and V
 npm install
 npm run dev
 ```
+
+## 🌐 Live Demo
+https://notion-lite-gamma.vercel.app/
